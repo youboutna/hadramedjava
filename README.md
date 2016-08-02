@@ -10,7 +10,8 @@ hadramed versio java
 4-lancer la compilation et le depoiment 
 
 pour lancer le programme il suffit de taper les commandes 
-cd CabinetMedical  ensuite : 
+
+cd hadramedjava/Cabinetmedical 
 
 mvn jetty:run
 
