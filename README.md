@@ -13,4 +13,5 @@ pour lancer le programme il suffit de taper les commandes
 cd CabinetMedical  ensuite : 
 
 mvn jetty:run
+
 -aller au navigateur et taper  localhost:8080/hadramed
