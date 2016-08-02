@@ -5,5 +5,7 @@ hadramed versio java
 -3 modifier le fichier pom.xml et remplacer JAVA_HOME  à votre repertoire java_home( variable d'environnement)
 4-lancer la compilation et le depoiment 
 pour lancer le programme il suffit de taper la commande 
+cd CabinetMedical 
+
 mvn jetty:run
 -aller au navigateur et taper  localhost:8080/hadramed
