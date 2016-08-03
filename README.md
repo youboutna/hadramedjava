@@ -1,5 +1,5 @@
 # hadramedjava
-hadramed versio java
+hadramed version java
 
 -1 Installer maven voir https://maven.apache.org/download.cgi
 
