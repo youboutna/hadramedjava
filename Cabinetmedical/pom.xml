@@ -16,7 +16,7 @@
 		<JAVA_HOME_8>C:\Program Files\Java\jdk1.8.0_20</JAVA_HOME_8>
 		<MAVEN_HOME>C:\apache-maven-3.0.5</MAVEN_HOME>
 	  </properties>
-	<!--dependencies of eatch library-->
+	<!--dependencies of each library-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
